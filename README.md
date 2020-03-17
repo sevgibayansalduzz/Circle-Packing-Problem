@@ -1,2 +1,2 @@
 # Circle-Packing-Problem
-Heuristic-Optimization Methods applied to 
+Heuristic optimization methods are applied to Circle Packing Problem
